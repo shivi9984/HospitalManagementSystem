@@ -10,15 +10,9 @@ The Hospital Management System project is a comprehensive solution designed to s
 - Implemented functionalities including patient record management, doctor details, and appointment scheduling.
 - Demonstrated advanced proficiency in Java and adept database management by end-to-end project execution
 
-The workspace contains two folders by default, where:
+## 📌Conclusion:
+- Overall, the project demonstrates my proficiency in Java programming, database management using MySQL, and also SQL, showcasing my ability to develop robust and efficient solutions to complex problems in the healthcare domain.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Video Presentation: 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+For this `Hospital Management System Project` video presentation, please [Click Here](https://drive.google.com/file/d/1AfsBI5QnO1CHCpctaKlHpZ1jVUo5VJNi/view?usp=drive_link).
